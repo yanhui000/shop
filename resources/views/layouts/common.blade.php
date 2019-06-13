@@ -6,6 +6,7 @@
     <body>
         @section('sidebar')
             这是主要的侧边栏
+            123
         @show
 
         <div class="container">
@@ -13,4 +14,3 @@
         </div>
     </body>
 </html>
-<a href=""></a>
