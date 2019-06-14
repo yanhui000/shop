@@ -9,7 +9,7 @@ class IndexController extends Controller
 {
     public function upload()
     {
-        return view('app');
+        return view('myshop/upload');
 
     }
 
