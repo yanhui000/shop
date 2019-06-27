@@ -15,7 +15,24 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;f72e9de6-bb7c-49a8-b33b-2b5e1d7741eb&gt;/application/index/controller/Address.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2764" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;f72e9de6-bb7c-49a8-b33b-2b5e1d7741eb&gt;/application/index/controller/Order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="234" column="8" lean-forward="true" selection-start-line="234" selection-start-column="8" selection-end-line="244" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -157,7 +174,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-248" />
     <option name="y" value="48" />
     <option name="width" value="1890" />
@@ -311,15 +328,16 @@
       <workItem from="1561336553888" duration="1389000" />
       <workItem from="1561430260497" duration="845000" />
       <workItem from="1561510852883" duration="1797000" />
-      <workItem from="1561597210858" duration="752000" />
+      <workItem from="1561597210858" duration="1488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89690000" />
+    <option name="totallyTimeSpent" value="90426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-178" y="8" width="1512" height="767" extended-state="0" />
+    <frame x="-198" y="39" width="1512" height="767" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19626169" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
