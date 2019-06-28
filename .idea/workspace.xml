@@ -15,24 +15,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;f72e9de6-bb7c-49a8-b33b-2b5e1d7741eb&gt;/application/index/controller/Address.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2764" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="true" current-in-tab="true">
-        <entry file="remoteDeploymentFS://&lt;f72e9de6-bb7c-49a8-b33b-2b5e1d7741eb&gt;/application/index/controller/Order.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="234" column="8" lean-forward="true" selection-start-line="234" selection-start-column="8" selection-end-line="244" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -174,11 +157,11 @@
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-248" />
-    <option name="y" value="48" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-249" />
+    <option name="y" value="47" />
     <option name="width" value="1890" />
-    <option name="height" value="959" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -329,15 +312,15 @@
       <workItem from="1561430260497" duration="845000" />
       <workItem from="1561510852883" duration="1797000" />
       <workItem from="1561597210858" duration="1488000" />
+      <workItem from="1561619199503" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90426000" />
+    <option name="totallyTimeSpent" value="91025000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-198" y="39" width="1512" height="767" extended-state="0" />
-    <editor active="true" />
+    <frame x="-199" y="38" width="1512" height="768" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19626169" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,11 +340,11 @@
       <window_info anchor="bottom" id="找到" order="12" weight="0.2851064" />
       <window_info anchor="bottom" id="运行" order="13" />
       <window_info anchor="bottom" id="调试" order="14" />
-      <window_info active="true" anchor="right" id="Remote Host" visible="true" weight="0.32977304" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="right" id="Remote Host" order="4" visible="true" weight="0.32977304" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

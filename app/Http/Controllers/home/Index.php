@@ -168,10 +168,10 @@ class Index extends Controller
     }
 
     //异步通知
-    public function asynUrl()
+    public function asynUrl(Request $request)
         {
             //接收支付宝异步通知
-            $data=input('post.');
+            $data=$request->all();
             $file="/data/wwwroot/default/shop/public/notify.log";
             if (empty($data)){
                 file_put_contents($file,'no data',FILE_APPEND);

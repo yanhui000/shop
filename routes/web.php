@@ -59,8 +59,3 @@ Route::get('home_logout','home\Login@logout'); // 退出
 Route::get('pay','Pay\AliPayController@pay'); // 支付宝支付
 Route::get('return_url','home\Index@return_url'); // 支付宝同步回调
 Route::get('asynUrl','home\Index@asynUrl'); // 支付宝同步回调
-
-
-
-
-
